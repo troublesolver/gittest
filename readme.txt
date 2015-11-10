@@ -3,4 +3,5 @@ Git is not a free software
 
 Creating a new branch is quick and simple
 branch controll
+bug 102
 
